@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ "master" ]
     paths:
-      - .github/workflows/ktlint.yml
+      - .github/workflows/basics.yml
       - 'src/**/*.kt'
       - '**.kts'
       
