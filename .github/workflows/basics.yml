@@ -28,4 +28,8 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+      # KT lint for cleanup    
+      - name: GitHub Action for ktlint
+        uses: yutailang0119/action-ktlint@v3.1.0
+
       
