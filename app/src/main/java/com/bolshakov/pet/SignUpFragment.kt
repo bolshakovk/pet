@@ -1,5 +1,4 @@
 package com.bolshakov.pet
-
 import androidx.lifecycle.ViewModelProvider
 import android.os.Bundle
 import androidx.fragment.app.Fragment
